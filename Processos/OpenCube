@@ -1,0 +1,42 @@
+1- How to Link and Open Statistical Data sets (LOSD):
+
+https://drive.google.com/open?id=0B0_fFuauifo0Uzlna2JkZHpOS0k
+
+ 
+
+2- How to insert LOSD on the OpenCube Toolkit (OCT)
+
+Access the Server with OCT (http://104.199.31.4:8888/resource/StartPage?view=wiki).
+
+Access the link ADMIN on the tab at top right of the screen.
+
+Access the link Data Import at the Data Management section on the right
+
+Give a name on the box Target Context. For example "Real_Estate_Prices"
+
+First Upload option using the browser box and select the proper type of data set (RDF/XML, JSON, etc.)
+
+Second Upload option using the tab URL entering at the source box the link where you found the RDF or TTL. For example: Most popular baby names in NY "https://data.cityofnewyork.us/api/views/25th-nujf/rows.rdf?accessType=DOWNLOAD"
+
+
+3- Link to check all the data sets inserted at OCT
+http://104.199.31.4:8888/resource/OpenCubeBrowser
+
+4- To perform basic statistics analysis (average, etc.)
+http://104.199.31.4:8888/resource/OpenCubeOLAPBrowser
+
+5- To create maps visualisations:
+http://104.199.31.4:8888/resource/OpenCubeMapView
+
+6- OpenCube Aggregator
+
+http://104.199.31.4:8888/resource/OpenCubeAggregator
+
+7- R Statistical Module
+
+http://104.199.31.4:8888/resource/RAnalyticsOverview
+
+8- List of R Statistical Library
+
+We have to ask the students which type of libraries (features) they want. I think the point of start could be those libraries:
+https://github.com/rasbt/pattern_classification/blob/master/resources/python_data_libraries.md  

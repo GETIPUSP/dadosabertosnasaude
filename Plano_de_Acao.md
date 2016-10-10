@@ -2,14 +2,14 @@ Olá car@s. Sejam bem-vindos! Este é um projeto com repositórios totalmente ab
 Saudamos a todos os potenciais interessados em colaborar conosco!
 Se você estiver interessado, entre em contato conosco através de Ricardo (r.matheus@tudelft.nl) ou entre em nosso Telegram (www.telegram.me/dadosabertosnasaude)
 
-** O Projeto **
+**O Projeto**
 Dados Abertos na Saúde é uma iniciativa de abertura de dados da saúde brasileira. Observa-se que o nível de investimentos na área de saúde, e outras áreas correlatas como educação e combate a fome, tem aumentado nos últimos anos. Isso possibilitou que processos modificados a ponto de possibilitar avanços na manutenção e melhoria substancial da qualidade de vida de milhoes de brasileiras e brasileiros. Contudo, ainda existem dificuldades na identificação destes avanços, em especial quais os fatores (inputs) que desencadeiam esses efeitos (outcomes).
 
 Para isso, a coleta de dados e sua análise é impresciendível. Indiscutivelmente o Brasil possui boa quantidade e qualidade de dados da área de saúde. Porém, parte destes dados ainda não está em formato aberto, apesar de estarem com livre acesso nas bases de dados (LINK PÁGINA DADOS SAÚDE). Além disso, a maioria dos dados estão em formato estatístico, o que também dificulta com que análises de dados sejam facilmente realizadas por algorítmos de computadores. Planilhas com dezenas de colunas e milhares de linhas também dificulta o fácil entendimento das pessoas que pesquisam o tema ou trabalham no dia-a-dia da saúde brasileira, reduzindo o potencial para tomada de decisão ou melhoria das políticas públicas.
 
 Como a área de saúde é vasta e complexa, nosso foco inicial é a neoplasia, ou seja, câncer. Segundo dados da Organização Mundial de Saúde (OMS), o câncer de mama é o mais incidente em mulheres, excetuando-se os casos de pele não melanoma, representando 25% do total de casos de câncer no mundo em 2012, com aproximadamente 1,7 milhão de casos novos naquele ano. É a quinta causa de morte por câncer em geral (522.000 óbitos) e a causa mais frequente de morte por câncer em mulheres (http://www2.inca.gov.br/wps/wcm/connect/acoes_programas/site/home/nobrasil/programa_controle_cancer_mama/conceito_magnitude). 
 
-** Objetivo **
+**Objetivo**
 A partir deste quebra-cabeça das políticas públicas de saúde do Brasil, o objetivo deste projeto é:
 "Identificar, abrir e conectar dados de saúde do Brasil para criação de análises que corroborem para a tomada de decisão, melhorias de processos e avaliação das políticas públicas de cânce de mama do Brasil".
 

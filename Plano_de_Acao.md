@@ -15,9 +15,10 @@ A partir deste quebra-cabeça das políticas públicas de saúde do Brasil, o ob
 As ações propostas para que o objetivo seja atingido estão descritas abaixo: 
 A- Identificar bases de dados de saúde relacionadas ao câncer de mama
 Exemplo I, Bases de dados TabNet do Ministérios da Saúde (MS) http://tabnet.datasus.gov.br/
-(LINK PÁGINA LISTA BASES DE DADOS DE SAÚDE)
+(https://github.com/GETIPUSP/dadosabertosnasaude/blob/master/BDAC/Lista_Bases)
 
 B- Coletar os dados das bases de dados identificadas
+https://github.com/GETIPUSP/dadosabertosnasaude/blob/master/BDAC/Lista_Bases
 
 C- Abrir em formato aberto (CSV) estas bases de dados identificadas
 Exemplo II, coletar dados de páginas estáticas da Web e armazenar em formato aberto CSV (Comma-Separated Values - https://en.wikipedia.org/wiki/Comma-separated_values) para criação de repositório;
@@ -29,9 +30,10 @@ E- Criar contexto para estes dados (metadados)
 Exemplo IV, criar arquivo que explique o arquivo (metadados - https://en.wikipedia.org/wiki/Metadata). Classificar, inserir etiquetas, explicar quais possíveis usos, etc.
 
 F- Criar base de dados única na web (Banco de Dados Abertos e Conectados - BDAC)
+https://github.com/GETIPUSP/dadosabertosnasaude/blob/master/BDAC/Lista_Bases
 
 G- Inserção da BDAC em ambiente web para expansão e exploração (OpenCube- https://en.wikipedia.org/wiki/Metadata)
 Exemplo V, Ambiente já construído (http://104.199.31.4:8888/resource/OpenCubeOLAPBrowser) com arquivos abertos e conectados do Projeto OpenGovIntelligence (www.opengovintelligence.eu) 
 
 H- Criação de análises para tomada de decisão, melhorias de processos e avaliação das políticas públicas de câncer de mama do Brasil.
-Exemplo VI, visualização de dados em mapas () ou gráficos em módulo R (http://104.199.31.4:8888/resource/RAnalyticsOverview) com potencialidade de uso de Python libraries (https://github.com/rasbt/pattern_classification/blob/master/resources/python_data_libraries.md  )
+Exemplo VI, visualização de dados em mapas (http://104.199.31.4:8888/resource/OpenCubeMapView) ou gráficos em módulo R (http://104.199.31.4:8888/resource/RAnalyticsOverview) com potencialidade de uso de Python libraries (https://github.com/rasbt/pattern_classification/blob/master/resources/python_data_libraries.md  )

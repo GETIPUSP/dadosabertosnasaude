@@ -14,7 +14,8 @@ A partir deste quebra-cabeça das políticas públicas de saúde do Brasil, o ob
 "Identificar, abrir e conectar dados de saúde do Brasil para criação de análises que corroborem para a tomada de decisão, melhorias de processos e avaliação das políticas públicas de cânce de mama do Brasil".
 
 # As Açoes
-As ações propostas para que o objetivo seja atingido estão descritas abaixo: 
+As ações propostas para que o objetivo seja atingido estão descritas abaixo:  
+
 A- Identificar bases de dados de saúde relacionadas ao câncer de mama
 Exemplo I, Bases de dados [TabNet](http://tabnet.datasus.gov.br/) do Ministérios da Saúde (MS) 
 

@@ -13,7 +13,7 @@ Como a área de saúde é vasta e complexa, nosso foco inicial é a neoplasia, o
 A partir deste quebra-cabeça das políticas públicas de saúde do Brasil, o objetivo deste projeto é:
 "Identificar, abrir e conectar dados de saúde do Brasil para criação de análises que corroborem para a tomada de decisão, melhorias de processos e avaliação das políticas públicas de cânce de mama do Brasil".
 
-# As Açoes
+# As Ações
 As ações propostas para que o objetivo seja atingido estão descritas abaixo:  
 
 A- Identificar bases de dados de saúde relacionadas ao câncer de mama
